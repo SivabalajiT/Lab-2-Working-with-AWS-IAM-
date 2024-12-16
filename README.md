@@ -22,7 +22,7 @@ This lab demonstrates how to work with **AWS Identity and Access Management (IAM
 
 ### **2. Create an IAM Group**
 - Create a group to organize IAM users.
-- Attach appropriate policies to the group (e.g., `AmazonS3FullAccess` for S3 access).
+- Attach appropriate policies to the group (e.g., `Amazonec2FullAccess` for Ec2 access).
 - Add users to the group.
 
 ### **3. Create an IAM Role**
